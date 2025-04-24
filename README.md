@@ -15,4 +15,5 @@ This code walks through steps to 1) clean the data for all years of analysis, 2)
 **Code Outputs (Cleaned Data & Plots):**
 
 •	Cleaned datasets are exported to the folder “Cleaned Data”
+
 •	Plots are exported to the folder “Plots”
