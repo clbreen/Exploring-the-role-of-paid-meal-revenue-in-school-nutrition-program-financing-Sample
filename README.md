@@ -1,6 +1,7 @@
 # Exploring-the-role-of-paid-meal-revenue-in-school-nutrition-program-financing-Sample
 
 R Project (Breen_CodeSample.Rproj):
+
 •	When opening this project file from within the project folder (Breen_CodeSample), R Studio will open to the correct working directory with access to the data files and accompanying R Script
 
 Data Files (_.csv):
